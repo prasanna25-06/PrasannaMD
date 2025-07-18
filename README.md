@@ -28,5 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasanna25-06&show_icons=true&locale=en" alt="prasanna25-06" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanna25-06&" alt="prasanna25-06" /></p>
-# PrasannaMD
 Hello World ! This is my profile
